@@ -103,3 +103,13 @@ loadFavoritePokemons();
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
+//lkjljkjlkljklkjkljkljkljljljkljklj
